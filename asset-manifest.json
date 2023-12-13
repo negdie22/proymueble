@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/proymueble/static/css/main.29ea1aa6.css",
+    "main.js": "/proymueble/static/js/main.17468b21.js",
+    "static/js/787.7f3fd20a.chunk.js": "/proymueble/static/js/787.7f3fd20a.chunk.js",
+    "static/media/b.png": "/proymueble/static/media/b.d582c25265978da29ba5.png",
+    "static/media/a.png": "/proymueble/static/media/a.9d90e08b6e54211f7b18.png",
+    "static/media/c.png": "/proymueble/static/media/c.17ba50c43fba8ee184d3.png",
+    "static/media/mu.jpg": "/proymueble/static/media/mu.a4985e12001ec1f80c4c.jpg",
+    "static/media/logo.svg": "/proymueble/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/proymueble/index.html",
+    "main.29ea1aa6.css.map": "/proymueble/static/css/main.29ea1aa6.css.map",
+    "main.17468b21.js.map": "/proymueble/static/js/main.17468b21.js.map",
+    "787.7f3fd20a.chunk.js.map": "/proymueble/static/js/787.7f3fd20a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29ea1aa6.css",
+    "static/js/main.17468b21.js"
+  ]
+}
